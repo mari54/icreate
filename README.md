@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Personal Portfolio Website in React
 
 This project was bootstrapped with Create React App.
