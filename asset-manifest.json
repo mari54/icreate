@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/icreate/static/css/main.5aecf7e5.css",
+    "main.js": "/icreate/static/js/main.b9b230d7.js",
+    "static/media/header-img.png": "/icreate/static/media/header-img.cb7c65aa8b7f31b8bcda.png",
+    "static/media/color-sharp.png": "/icreate/static/media/color-sharp.5f52a7262f8d934b5784.png",
+    "static/media/color-sharp2.png": "/icreate/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/contact-img.png": "/icreate/static/media/contact-img.6cfe5569326847e1f8e7.png",
+    "static/media/banner-bg.png": "/icreate/static/media/banner-bg.295175f4f89700220305.png",
+    "static/media/project-img3.png": "/icreate/static/media/project-img3.7d41d0a7d4e8ee5b9631.png",
+    "static/media/project-img2.png": "/icreate/static/media/project-img2.61ce91cf2668bab9b3bf.png",
+    "static/media/project-img1.png": "/icreate/static/media/project-img1.6b0d1d3e5914a71a94b3.png",
+    "static/media/footer-bg.png": "/icreate/static/media/footer-bg.aedaa8eb1e1aebde19cb.png",
+    "static/media/CentraNo2-Bold.ttf": "/icreate/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/icreate/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/icreate/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/icreate-logo.png": "/icreate/static/media/icreate-logo.b92fa0758380d540665e.png",
+    "static/media/revicons.eot": "/icreate/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/icreate/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/icreate/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/icreate/static/media/meter2.f1b23a832ac11616776d631a3b3a0602.svg",
+    "static/media/meter1.svg": "/icreate/static/media/meter1.9f8dea10f2b182e7c4e47647b0fab971.svg",
+    "static/media/meter3.svg": "/icreate/static/media/meter3.3dff05c80ace004f9bf3446b2718d9d3.svg",
+    "static/media/nav-icon3.svg": "/icreate/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/icreate/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/icreate/index.html",
+    "static/media/nav-icon2.svg": "/icreate/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.5aecf7e5.css.map": "/icreate/static/css/main.5aecf7e5.css.map",
+    "main.b9b230d7.js.map": "/icreate/static/js/main.b9b230d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aecf7e5.css",
+    "static/js/main.b9b230d7.js"
+  ]
+}
